@@ -1,3 +1,4 @@
+
 package learning_swing;
 
 
@@ -5,6 +6,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
+/*
+ * A small app that I made after I learned about Buttons and ActionListeners
+ * It's basically to buttons - On & OFF - that change the state of a lightbulb
+*/
 
 public class Main {
     public static void main(String[] args) {
